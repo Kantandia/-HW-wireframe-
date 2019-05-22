@@ -1,49 +1,49 @@
 
-     /* 
+     /* /*  */
         body {
-            background-color: #00ff9d;
+            background-color: #8f05008e;
             font: Georgia, Times New Roman, Times, serif
         }
-     */
+      */ 
       h1 {
-      /* Put a 15-pixel margin at the bottom of the heading. */
+      
       margin-bottom: 15px;
-      /* Change the size of your font to 60 pixels high. */
+      
       font-size: 35px;
-      /* This will color the heading font white. */
+      
       color: rgb(52, 54, 202);
-      /* Align the text to the center of its enclosing element (e.g. div). */
+      
       text-align: center;
       
-      /* The background of the heading element will now be black. */
+      
       background-color: rgb(15, 33, 82);
       }
       h2 {
-      /* Put a 15-pixel margin at the bottom of the heading. */
+      
       margin-bottom: 15px;
-      /* Change the size of your font to 60 pixels high. */
+      
       font-size: 35px;
-      /* This will color the heading font white. */
+   
       color: rgb(52, 54, 202);
-      /* Align the text to the center of its enclosing element (e.g. div). */
+      
       text-align: center;
-      /* Underline the text. */
+   
       text-decoration: underline;
-      /* The background of the heading element will now be black. */
+     
       background-color: rgb(15, 33, 82);
       }
       h3 {
-      /* Put a 15-pixel margin at the bottom of the heading. */
+      
       margin-bottom: 15px;
-      /* Change the size of your font to 60 pixels high. */
+      
       font-size: 35px;
-      /* This will color the heading font white. */
+      
       color: rgb(52, 54, 202);
-      /* Align the text to the center of its enclosing element (e.g. div). */
+      
       text-align: center;
-      /* Underline the text. */
+      
       text-decoration: underline;
-      /* The background of the heading element will now be black. */
+      
       background-color: rgb(15, 33, 82);
       }
       
