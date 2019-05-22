@@ -1,2 +1,2 @@
 # -HW-wireframe-
-Loner Hears Compadre
+Loner Hearts Compadre
