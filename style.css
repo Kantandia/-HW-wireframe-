@@ -3,7 +3,7 @@
      header {
         font-family: 'Arial', 'Helvetica Neue', 'sans-serif';
         margin-bottom: 15px;
-        background-color: navy;
+        background-color: rgb(112, 19, 19);
         font-size: 35px;
         color: rgb(rgb(85, 1, 1));
         text-align: left;
@@ -27,6 +27,13 @@
 
             
         }
+    aside {
+        background: #ebebeb;
+    }
+
+    article {
+        background: #ebebeb
+    }
       */ 
       h1 {
       margin-bottom: 15px;
@@ -54,7 +61,7 @@
       h4 {
           color:#777;
           background: #777;
-          width: 960px;
+          text-align: right;
           font-size: 24px;
 
 
