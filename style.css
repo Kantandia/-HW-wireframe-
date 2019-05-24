@@ -30,16 +30,30 @@
     aside {
         background: #ebebeb;
     }
-
+    section{
+        background:#ebebeb;
+        width: 495px;
+    
+    }
     article {
-        background: #ebebeb
+        background: #ebebeb;
     }
 
 
 
     nav {
-        background:#ebebeb
+        background:#ebebeb;
     }
+
+    footer {
+        background: #106b04;
+    }
+
+
+
+
+
+
       */ 
       h1 {
       margin-bottom: 15px;
